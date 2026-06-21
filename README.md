@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Susheel Pinnoj<br>Full Stack .NET Developer with 7 years of experience building scalable web applications, RESTful APIs, and microservices across Retail Media, Gaming, Healthcare, and Insurance domains. Skilled in C#, .NET Core/.NET 8, ASP.NET Core, Angular, TypeScript, SQL Server, and cloud-native architectures (Azure, Kubernetes, Kafka).<br>🔭 Currently building enterprise advertising platforms in the Retail Media space<br>🌱 Exploring microservices, distributed systems, and cloud-native patterns<br>💼 Open to Full Stack / .NET / Software Engineer opportunities<br>📫 Reach me at: E: susheelp0926@gmail.com | 
+👋 Hi, I'm Susheel Pinnoj<br>Full Stack .NET Developer with 6+ years of experience building scalable web applications, RESTful APIs, and microservices across Retail Media, Gaming, Healthcare, and Insurance domains. Skilled in C#, .NET Core/.NET 8, ASP.NET Core, Angular, TypeScript, SQL Server, and cloud-native architectures (Azure, Kubernetes, Kafka).<br>🔭 Currently building enterprise advertising platforms in the Retail Media space<br>🌱 Exploring microservices, distributed systems, and cloud-native patterns<br>💼 Open to Full Stack / .NET / Software Engineer opportunities<br>📫 Reach me at: E: susheelp0926@gmail.com | 
 
 
 ## 🌐 Socials:
